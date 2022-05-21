@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Portfolio
-    url: https://im-parsa.tech
+    url: https://parsa-firoozi.ir
     icon: https://parsa-firoozi.ir/favicon.png
     assignees:
       - im-parsa
@@ -29,8 +29,8 @@ status-website:
   # cname:  im-parsa.github.io/status/
   baseUrl: /status
   logoUrl: https://parsa-firoozi.ir/favicon.png
-  name: Parsa's Uptime Status Page
-  introTitle: "**Parsa's Uptime Status Page** - im-parsa"
+  name: Parsa's Uptime Page
+  introTitle: "**Parsa's Uptime Page** - im-parsa"
   introMessage: This page is [generated automaticly](https://github.com/im-parsa/status) to show status and services created & hosted on [im-parsa](https://github.com/im-parsa)'s Server and Github Pages.
   navbar:
     - title: Status
@@ -38,7 +38,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
-      href: https://im-parsa.tech
+      href: https://parsa-firoozi.ir
     - title: Instagram
       href: https://www.instagram.com/hello_im_parsa
 i18n:
