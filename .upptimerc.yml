@@ -8,6 +8,17 @@ sites:
     icon: https://parsa-firoozi.ir/favicon.png
     assignees:
       - im-parsa
+  - name: Paraffin Tutorials
+    url: https://paraffin-tutorials.ir
+    icon: https://paraffin-tutorials.ir/favicon.png
+    assignees:
+      - im-parsa
+  - name: Discords City
+    url: https://discords.city
+    icon: https://discords.city/favicon.ico
+    assignees:
+      - im-parsa
+      - IntelligentQuantum
 
 status-website:
   metaTags:
