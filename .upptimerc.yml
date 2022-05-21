@@ -29,8 +29,8 @@ status-website:
   # cname:  im-parsa.github.io/status/
   baseUrl: /status
   logoUrl: https://parsa-firoozi.ir/favicon.png
-  name: Parsa's Uptime Page
-  introTitle: "**Parsa's Uptime Page** - im-parsa"
+  name: Parsa's Uptime Status Page
+  introTitle: "**Parsa's Uptime Status Page** - im-parsa"
   introMessage: This page is [generated automaticly](https://github.com/im-parsa/status) to show status and services created & hosted on [im-parsa](https://github.com/im-parsa)'s Server and Github Pages.
   navbar:
     - title: Status
