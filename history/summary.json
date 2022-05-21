@@ -1,7 +1,7 @@
 [
   {
     "name": "Portfolio",
-    "url": "https://im-parsa.tech",
+    "url": "https://parsa-firoozi.ir",
     "icon": "https://parsa-firoozi.ir/favicon.png",
     "slug": "portfolio",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2184,
-    "timeDay": 2184,
-    "timeWeek": 2184,
-    "timeMonth": 2184,
-    "timeYear": 2184,
+    "time": 2145,
+    "timeDay": 2145,
+    "timeWeek": 2145,
+    "timeMonth": 2145,
+    "timeYear": 2145,
     "dailyMinutesDown": {}
   }
 ]
