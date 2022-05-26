@@ -22,18 +22,20 @@
     "url": "https://paraffin-tutorials.ir",
     "icon": "https://paraffin-tutorials.ir/favicon.png",
     "slug": "paraffin-tutorials",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
-    "timeDay": 920,
+    "timeDay": 967,
     "timeWeek": 1013,
     "timeMonth": 1013,
     "timeYear": 1013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-26": 0
+    }
   },
   {
     "name": "Discords City",
