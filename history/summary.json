@@ -4,9 +4,9 @@
     "url": "https://parsa-firoozi.ir",
     "icon": "https://parsa-firoozi.ir/favicon.png",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 970,
     "timeMonth": 1214,
     "timeYear": 1214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-04": 0
+    }
   },
   {
     "name": "Paraffin Tutorials",
