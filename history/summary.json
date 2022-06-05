@@ -5,19 +5,17 @@
     "icon": "https://parsa-firoozi.ir/favicon.png",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1209,
-    "timeDay": 1074,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1189,
+    "timeDay": 978,
     "timeWeek": 990,
-    "timeMonth": 1209,
-    "timeYear": 1209,
-    "dailyMinutesDown": {
-      "2022-06-04": 6
-    }
+    "timeMonth": 1189,
+    "timeYear": 1189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paraffin Tutorials",
@@ -25,16 +23,16 @@
     "icon": "https://paraffin-tutorials.ir/favicon.png",
     "slug": "paraffin-tutorials",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1078,
-    "timeDay": 821,
-    "timeWeek": 893,
-    "timeMonth": 1078,
-    "timeYear": 1078,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1058,
+    "timeDay": 723,
+    "timeWeek": 892,
+    "timeMonth": 1058,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2022-05-26": 18
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 379,
-    "timeWeek": 484,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "time": 493,
+    "timeDay": 400,
+    "timeWeek": 504,
+    "timeMonth": 493,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   }
 ]
