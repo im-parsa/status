@@ -5,16 +5,16 @@
     "icon": "https://parsa-firoozi.ir/favicon.png",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1057,
-    "timeDay": 880,
-    "timeWeek": 860,
-    "timeMonth": 1057,
-    "timeYear": 1057,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1060,
+    "timeDay": 1192,
+    "timeWeek": 877,
+    "timeMonth": 1060,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2022-06-08": 63
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 959,
-    "timeDay": 774,
-    "timeWeek": 834,
-    "timeMonth": 959,
-    "timeYear": 959,
+    "time": 962,
+    "timeDay": 1058,
+    "timeWeek": 842,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2022-05-26": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 361,
-    "timeWeek": 472,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "time": 496,
+    "timeDay": 661,
+    "timeWeek": 484,
+    "timeMonth": 496,
+    "timeYear": 496,
     "dailyMinutesDown": {}
   }
 ]
