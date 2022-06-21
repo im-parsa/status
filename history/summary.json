@@ -4,18 +4,19 @@
     "url": "https://parsa-firoozi.ir",
     "icon": "https://parsa-firoozi.ir/favicon.png",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
     "time": 1055,
     "timeDay": 1057,
     "timeWeek": 903,
-    "timeMonth": 1055,
+    "timeMonth": 1001,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-06-08": 63
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://paraffin-tutorials.ir",
     "icon": "https://paraffin-tutorials.ir/favicon.png",
     "slug": "paraffin-tutorials",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 942,
@@ -36,6 +37,7 @@
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-05-26": 18
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://discords.city",
     "icon": "https://discords.city/favicon.ico",
     "slug": "discords-city",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +57,8 @@
     "timeWeek": 505,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
